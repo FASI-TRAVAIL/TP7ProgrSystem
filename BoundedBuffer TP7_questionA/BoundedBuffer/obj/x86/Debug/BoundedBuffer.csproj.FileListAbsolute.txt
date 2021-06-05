@@ -1,0 +1,11 @@
+c:\users\peter boots\documents\visual studio 2010\Projects\BoundedBuffer\BoundedBuffer\bin\Debug\BoundedBuffer.exe
+c:\users\peter boots\documents\visual studio 2010\Projects\BoundedBuffer\BoundedBuffer\bin\Debug\BoundedBuffer.pdb
+c:\users\peter boots\documents\visual studio 2010\Projects\BoundedBuffer\BoundedBuffer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\peter boots\documents\visual studio 2010\Projects\BoundedBuffer\BoundedBuffer\obj\x86\Debug\BoundedBuffer.exe
+c:\users\peter boots\documents\visual studio 2010\Projects\BoundedBuffer\BoundedBuffer\obj\x86\Debug\BoundedBuffer.pdb
+C:\Users\HP\source\repos\BoundedBuffer\BoundedBuffer\obj\x86\Debug\BoundedBuffer.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BoundedBuffer\BoundedBuffer\obj\x86\Debug\BoundedBuffer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BoundedBuffer\BoundedBuffer\obj\x86\Debug\BoundedBuffer.exe
+C:\Users\HP\source\repos\BoundedBuffer\BoundedBuffer\obj\x86\Debug\BoundedBuffer.pdb
+C:\Users\HP\source\repos\BoundedBuffer\BoundedBuffer\bin\Debug\BoundedBuffer.exe
+C:\Users\HP\source\repos\BoundedBuffer\BoundedBuffer\bin\Debug\BoundedBuffer.pdb
