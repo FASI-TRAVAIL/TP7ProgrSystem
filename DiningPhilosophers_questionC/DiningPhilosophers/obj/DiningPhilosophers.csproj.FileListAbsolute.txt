@@ -1,0 +1,16 @@
+D:\Software\OS1\DiningPhilosophers\DiningPhilosophers\obj\Debug\ResolveAssemblyReference.cache
+D:\Software\OS1\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.Properties.Resources.resources
+D:\Software\OS1\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.csproj.GenerateResource.Cache
+D:\Software\OS1\DiningPhilosophers\DiningPhilosophers\bin\Debug\DiningPhilosophers.exe
+D:\Software\OS1\DiningPhilosophers\DiningPhilosophers\bin\Debug\DiningPhilosophers.pdb
+D:\Software\OS1\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.exe
+D:\Software\OS1\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.pdb
+D:\Software\OS1\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.DiningPhilosophersForm.resources
+D:\Software\OS1\Week 6\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.exe
+D:\Software\OS1\Week 6\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.pdb
+D:\Software\OS1\Week 6\DiningPhilosophers\DiningPhilosophers\obj\Debug\ResolveAssemblyReference.cache
+D:\Software\OS1\Week 6\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.DiningPhilosophersForm.resources
+D:\Software\OS1\Week 6\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.Properties.Resources.resources
+D:\Software\OS1\Week 6\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.csproj.GenerateResource.Cache
+D:\Software\OS1\Week 6\DiningPhilosophers\DiningPhilosophers\bin\Debug\DiningPhilosophers.exe
+D:\Software\OS1\Week 6\DiningPhilosophers\DiningPhilosophers\bin\Debug\DiningPhilosophers.pdb

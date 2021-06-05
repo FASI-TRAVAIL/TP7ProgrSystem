@@ -1,0 +1,9 @@
+C:\Users\Aurore\source\repos\DiningPhilosophers_v2\DiningPhilosophers\bin\Debug\DiningPhilosophers.exe
+C:\Users\Aurore\source\repos\DiningPhilosophers_v2\DiningPhilosophers\bin\Debug\DiningPhilosophers.pdb
+C:\Users\Aurore\source\repos\DiningPhilosophers_v2\DiningPhilosophers\obj\Debug\DiningPhilosophers_v2.csprojAssemblyReference.cache
+C:\Users\Aurore\source\repos\DiningPhilosophers_v2\DiningPhilosophers\obj\Debug\DiningPhilosophers.DiningPhilosophersForm.resources
+C:\Users\Aurore\source\repos\DiningPhilosophers_v2\DiningPhilosophers\obj\Debug\DiningPhilosophers.Properties.Resources.resources
+C:\Users\Aurore\source\repos\DiningPhilosophers_v2\DiningPhilosophers\obj\Debug\DiningPhilosophers_v2.csproj.GenerateResource.cache
+C:\Users\Aurore\source\repos\DiningPhilosophers_v2\DiningPhilosophers\obj\Debug\DiningPhilosophers_v2.csproj.CoreCompileInputs.cache
+C:\Users\Aurore\source\repos\DiningPhilosophers_v2\DiningPhilosophers\obj\Debug\DiningPhilosophers.exe
+C:\Users\Aurore\source\repos\DiningPhilosophers_v2\DiningPhilosophers\obj\Debug\DiningPhilosophers.pdb
